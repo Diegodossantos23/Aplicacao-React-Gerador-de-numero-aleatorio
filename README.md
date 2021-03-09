@@ -30,7 +30,8 @@ Neste exemplo, quando o usuário clicar no botão, o código associado ao evento
 
 ## 🔝 Funcionalidades
 
-- gerar do número aleatório
+- gera número aleatório
+
 <p align="center">
   
   Link do [projeto](https://aplicacao-react-gerador-de-numero-aleatorio-qrlsy6bcr.vercel.app/).
@@ -40,13 +41,8 @@ Neste exemplo, quando o usuário clicar no botão, o código associado ao evento
 <!-- gifs -->
 <p align="center">
 
-  ![BACKGROUND](https://github.com/Diegodossantos23/Aplicacao-React-Gerador-de-numero-aleatorio/blob/main/assets/responsivo.png?raw=true)    
+  ![BACKGROUND](https://github.com/Diegodossantos23/Aplicacao-React-Gerador-de-numero-aleatorio/blob/main/assets/gerador-numero.png?raw=true)    
 </p>
-<p align="center">
-  
-  ![BACKGROUND](https://github.com/Diegodossantos23/Aplicacao-React-Gerador-de-numero-aleatorio/blob/main/assets/responsivo.png?raw=true)    
-</p>
-
 
 ## 🔨 Tecnologias
 
