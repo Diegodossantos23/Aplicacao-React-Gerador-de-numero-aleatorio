@@ -13,12 +13,12 @@
 ---
 
 <!-- index -->
-<p align="center">
+<div align="center">
   <a href="#-sobre">Sobre</a> •
   <a href="#-funcionalidades">Funcionalidades</a> •
   <a href="#-tecnologias">Tecnologias</a> •
   <a href="#-executando-o-projeto">Executando o projeto</a> •
-</p>
+</div>
 
 ---
 
