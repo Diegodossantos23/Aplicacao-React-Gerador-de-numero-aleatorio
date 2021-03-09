@@ -1,15 +1,7 @@
-# Aplicacao-React-Gerador-de-numero-aleatorio
 
-<div align="center">
-  
-  ![BACKGROUND](https://github.com/Diegodossantos23/Aplicacao-React-Gerador-de-numero-aleatorio/blob/main/assets/numero-aleatorio.gif?raw=true)
-  ![BACKGROUND](https://github.com/Diegodossantos23/Aplicacao-React-Gerador-de-numero-aleatorio/blob/main/assets/gerador-numero.png?raw=true)
-  ![BACKGROUND](https://github.com/Diegodossantos23/Aplicacao-React-Gerador-de-numero-aleatorio/blob/main/assets/responsivo.png?raw=true)    
-
-</div>
 <!-- banner -->
 <h1 align="center">
-  Focus.it
+  Gerador de número aleatório
 </h1
 ---
 
@@ -31,30 +23,27 @@
 ---
 
 ## 📄 Sobre
+Ao clicar em um botão é comum que algo aconteça. Para chamarmos esta ação utilizamos o evento onClick.
 
-O objetivo do **Focusit** é cuidar da saúde daqueles que passam grande parte do seu dia na frente do computador, através de mini desafios como alongamentos ou uma saída para caminhar.
-
-Este projeto foi desenvolvido durante a quarta edição da **NLW (Next Level Week)**. 
-
-A **NLW** é um evento online de uma semana, disponibilizado pela **RocketSeat**, focado em por a mão na massa. O conteúdo fica disponível apenas durante o evento.
-
+Neste exemplo, quando o usuário clicar no botão, o código associado ao evento onClick será executado (a geração do número aleatório).
 ---
 
 ## 🔝 Funcionalidades
 
-- Técnica Pomodoro.
-- Níveis de experiência.
-- Desafios personalizados.
-
+- gerar do número aleatório
 <p align="center">
   
-  Link do [projeto](https://next-focusit.vercel.app/).
+  Link do [projeto](https://aplicacao-react-gerador-de-numero-aleatorio-qrlsy6bcr.vercel.app/).
   
   </p>
 
 <!-- gifs -->
 <p align="center">
-  <img alt="WebDemonstration" title="WebDemonstration" src="https://github.com/Diegodossantos23/next-focusit/blob/main/assets/In%C3%ADcio%20_%20focus.it.gif?raw=true">
+  ![BACKGROUND](https://github.com/Diegodossantos23/Aplicacao-React-Gerador-de-numero-aleatorio/blob/main/assets/numero-aleatorio.gif?raw=true)
+  
+  ![BACKGROUND](https://github.com/Diegodossantos23/Aplicacao-React-Gerador-de-numero-aleatorio/blob/main/assets/gerador-numero.png?raw=true)
+  
+  ![BACKGROUND](https://github.com/Diegodossantos23/Aplicacao-React-Gerador-de-numero-aleatorio/blob/main/assets/responsivo.png?raw=true)    
 </p>
 
 
@@ -62,9 +51,7 @@ A **NLW** é um evento online de uma semana, disponibilizado pela **RocketSeat**
 
 Estas são as principais tecnologias utilizadas na construção do projeto:
 
-- [Next](https://nextjs.org/)
 - [ReactJS](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
 
 ---
 
@@ -74,16 +61,17 @@ Antes de qualquer coisa, você precisa ter  o [Git](https://git-scm.com), o [npm
 
 ```bash
 # Clone este repositório:
-$ git clone https://github.com/Diegodossantos23/next-focusit
+$ git clone https://github.com/Diegodossantos23/Aplicacao-React-Gerador-de-numero-aleatorio.git
 
 # Acesse à pasta do projeto:
-cd focusit-next
+cd gerador
 
 # Instale as depêndencias:
 npm i
+npm i styled-components
 
-# Execute a aplicação em modo de desenvolvimento:
-npm run dev
+# Execute a aplicação:
+npm start
 ```
 
 Caso a página não abrir automaticamente, acesse: http://localhost:3000
