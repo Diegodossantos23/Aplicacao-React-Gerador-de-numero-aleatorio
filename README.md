@@ -23,9 +23,7 @@
 ---
 
 ## 📄 Sobre
-Ao clicar em um botão é comum que algo aconteça. Para chamarmos esta ação utilizamos o evento onClick.
-
-Neste exemplo, quando o usuário clicar no botão, o código associado ao evento onClick será executado (a geração do número aleatório).
+Ao clicar no botão, o código associado ao evento onClick será executado (a geração do número aleatório).
 ---
 
 ## 🔝 Funcionalidades
